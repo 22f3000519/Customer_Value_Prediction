@@ -17,4 +17,4 @@ The goal is to predict a customer’s purchase value based on their multi-sessio
 
 #### Final Result
 
-Achieved R$2 score > 0.60
+Achieved $R^2$ score > 0.60
